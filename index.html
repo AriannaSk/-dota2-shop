@@ -1,21 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Dota 2 Collector's Chests</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CacheHub</title>
+  <!-- Google Font for logo and subtitle -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet" >
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Основные стили шапки и логотипа */
+    .site-header {
+      text-align: center;
+      padding: 20px 0;
+      background: #1a1a1a;
+      border-bottom: 2px solid #f8f8f8d2;
+    }
+
+    /* Логотип CacheHub без иконки */
+    .logo {
+      font-family: 'Oswald', sans-serif;
+      font-weight: 700;
+      font-size: 3.2rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      display: inline-block;
+      background-color: #221f1fc9;
+      color: #fff;
+      padding: 5px 12px;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3);
+      margin: 0;
+      white-space: nowrap;
+    }
+        /* styles.css */
+        .subtitle {
+      font-family: 'Kaushan Script', cursive;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1.2rem;
+      line-height: 1;
+      display: block;
+      color: #f8f8f8;
+      margin: 0.4em auto 0;
+      letter-spacing: 0.4px;
+      max-width: max-content;
+    }
+
+  
+    body {
+      margin: 0;
+      background: #121212;
+      color: #f5f5f5;
+      font-family: 'Oswald', cursive;
+    }
+
+    .catalog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 5px;
+      padding: 100px;
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>Collector's Cache</h1>
-    <p>Choose your treasure</p>
+  <header class="site-header">
+    <h1 class="logo">CacheHub</h1>
+    <p class="subtitle">by Sw3aR</p>
   </header>
 
-  <main class="catalog" id="catalog">
-    <!-- Cards will be loaded by JavaScript -->
-  </main>
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet" >  <div id="catalog" class="catalog-grid"></div>
 
-  <script src="script.js"></script>
+  <script src="script.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,81 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .case-container {
+    margin-top: 40px;
+  }
+  
+  .case-window {
+    position: relative;
+    width: 1200px;
+    height: 220px;
+    margin: 0 auto;
+    overflow: hidden;
+    border: 3px solid #8847ff;
+    background: #1a1a1a;
+  }
+  
+  .skin-strip {
+    display: flex;
+    transition: transform 5s ease-out;
+  }
+  
+  .skin-strip img {
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    border-radius: 10px;
+    background: #222;
+    object-fit: contain;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+    transition: transform 0.2s;
+  }
+  
+  .skin-strip img:hover {
+    transform: scale(1.1);
+  }
+  
+  .case-indicator {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #8847ff;
+    transform: translateX(-50%);
+  }
+  
+  .popup {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    background: #1c1c1c;
+    padding: 25px;
+    border-radius: 12px;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.7);
+    transition: transform 0.4s ease, opacity 0.4s;
+    opacity: 0;
+    z-index: 999;
+    box-shadow: 0 0 25px #8847ff;
+    border: 3px solid #8847ff;
+  }
+  
+  .popup.show {
+    display: flex;
+    transform: translate(-50%, -50%) scale(1.2); /* Всплытие */
+    opacity: 1;
+  }
+  
+  #popup-img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 10px;
+  }

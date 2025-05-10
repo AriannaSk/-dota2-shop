@@ -903,10 +903,477 @@ const skins = {
     price: "N/A",
     image: "images/skins/Nemestice 2021 Collector's Cache/Witch Doctor - Footfalls of the Sporefathers (Very Rare).png"
   }
+],
+
+
+"Collector's Cache 2019": [,
+  {
+    hero: "Abaddon",
+    skin: "Echoes of the Everblack",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Abaddon - Echoes of the Everblack.png"
+  },
+  {
+    hero: "Chen",
+    skin: "Priest of the Proudsilver Clan",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Chen - Priest of the Proudsilver Clan.png"
+  },
+  {
+    hero: "Dark Willow",
+    skin: "Allure of the Faeshade Flower",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Dark Willow - Allure of the Faeshade Flower.png"
+  },
+  {
+    hero: "Dazzle",
+    skin: "Forbidden Medicine",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Dazzle - Forbidden Medicine.png"
+  },
+  {
+    hero: "Death Prophet",
+    skin: "Soul of the Brightshroud",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Death Prophet - Soul of the Brightshroud.png"
+  },
+  {
+    hero: "Disruptor",
+    skin: "Defender of Ruin",
+    rarity: "Rare",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Disruptor - Defender of Ruin (Rare).png"
+  },
+  {
+    hero: "Dragon Knight",
+    skin: "Scorched Amber",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Dragon Knight - Scorched Amber.png"
+  },
+  {
+    hero: "Drow Ranger",
+    skin: "Glimmer of the Sacred Hunt",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Drow Ranger - Glimmer of the Sacred Hunt.png"
+  },
+  {
+    hero: "Earth Spirit",
+    skin: "Adornments of the Jade Emissary",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Earth Spirit - Adornments of the Jade Emissary.png"
+  },
+  {
+    hero: "Enigma",
+    skin: "The Arts of Mortal Deception",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Enigma - The Arts of Mortal Deception.png"
+  },
+  {
+    hero: "Grimstroke",
+    skin: "Paean of the Ink Dragon",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Grimstroke - Paean of the Ink Dragon.png"
+  },
+  {
+    hero: "Huskar",
+    skin: "Pursuit of the Ember Demons",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Huskar - Pursuit of the Ember Demons.png"
+  },
+  {
+    hero: "Oracle",
+    skin: "Riddle of the Hierophant",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Oracle - Riddle of the Hierophant.png"
+  },
+  {
+    hero: "Phantom Assassin",
+    skin: "Gothic Whisper",
+    rarity: "Very Rare",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Phantom Assassin - Gothic Whisper (Very Rare).png"
+  },
+  {
+    hero: "Slark",
+    skin: "Appetites of the Lizard King",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Slark - Appetites of the Lizard King.png"
+  },
+  {
+    hero: "Tidehunter",
+    skin: "Poacher's Bane",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Tidehunter - Poacher's Bane.png"
+  },
+  {
+    hero: "Undying",
+    skin: "Curse of the Creeping Vine",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache 2019/Undying - Curse of the Creeping Vine.png"
+  }
+],
+
+"Collector's Cache II 2019": [
+  {
+    hero: "Abaddon",
+    skin: "Endless Night",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Abaddon - Endless Night.png"
+  },
+  {
+    hero: "Batrider",
+    skin: "Prized Acquisitions",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Batrider - Prized Acquisitions.png"
+  },
+  {
+    hero: "Bloodseeker",
+    skin: "Fury of the Bloodforge",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Bloodseeker - Fury of the Bloodforge.png"
+  },
+  {
+    hero: "Broodmother",
+    skin: "Automaton Antiquity",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Broodmother - Automaton Antiquity.png"
+  },
+  {
+    hero: "Clockwerk",
+    skin: "Directive of the Sunbound",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Clockwerk - Directive of the Sunbound.png"
+  },
+  {
+    hero: "Drow Ranger",
+    skin: "Sight of the Kha-Ren Faithful",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Drow Ranger - Sight of the Kha-Ren Faithful.png"
+  },
+  {
+    hero: "Ember Spirit",
+    skin: "Cinder Sensei",
+    rarity: "Very Rare",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Ember Spirit - Cinder Sensei (Very Rare).png"
+  },
+  {
+    hero: "Necrophos",
+    skin: "Fowl Omen",
+    rarity: "Rare",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Necrophos - Fowl Omen (Rare).png"
+  },
+  {
+    hero: "Pangolier",
+    skin: "Tales of the Windward Rogue",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Pangolier - Tales of the Windward Rogue.png"
+  },
+  {
+    hero: "Pudge",
+    skin: "Dapper Disguise",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Pudge - Dapper Disguise.png"
+  },
+  {
+    hero: "Shadow Fiend",
+    skin: "Souls Tyrant",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Shadow Fiend - Souls Tyrant.png"
+  },
+  {
+    hero: "Tusk",
+    skin: "Distinguished Expeditionary",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Tusk - Distinguished Expeditionary.png"
+  },
+  {
+    hero: "Venomancer",
+    skin: "Verdant Predator",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Venomancer - Venomancer - Verdant Predator.png"
+  },
+  
+  {
+    hero: "Warlock",
+    skin: "Tribal Pathways",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Warlock - Tribal Pathways.png"
+  },
+  {
+    hero: "Wraith King",
+    skin: "Grim Destiny",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/Collector's Cache II 2019/Wraith King - Grim Destiny.png"
+  }
+],
+
+"The International 10 Collector's Cache": [
+  {
+    hero: "Ancient Apparition",
+    skin: "Apocalypse Unbound",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Ancient Apparition - Apocalypse Unbound.png"
+  },
+  {
+    hero: "Bounty Hunter",
+    skin: "Heartless Hunt",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Bounty Hunter - Heartless Hunt.png"
+  },
+  {
+    hero: "Disruptor",
+    skin: "Fury of the Righteous Storm",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Disruptor - Fury of the Righteous Storm.png"
+  },
+  {
+    hero: "Enchantress",
+    skin: "Songs of Starfall Glen",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Enchantress - Songs of Starfall Glen.png"
+  },
+  {
+    hero: "Grimstroke",
+    skin: "Herald of the Ember Eye",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Grimstroke - Herald of the Ember Eye.png"
+  },
+  {
+    hero: "Huskar",
+    skin: "Flashpoint Proselyte",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Huskar - Flashpoint Proselyte.png"
+  },
+  {
+    hero: "Jakiro",
+    skin: "Fissured Flight",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Jakiro - Fissured Flight.png"
+  },
+  {
+    hero: "Juggernaut",
+    skin: "Lineage of the Stormlords",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Juggernaut - Lineage of the Stormlords.png"
+  },
+  {
+    hero: "Lina",
+    skin: "Glory of the Elderflame",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Lina - Glory of the Elderflame.png"
+  },
+  {
+    hero: "Mars",
+    skin: "Forsworn Legacy",
+    rarity: "Very Rare",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Mars - Forsworn Legacy (Very Rare).png"
+  },
+  {
+    hero: "Nature's Prophet",
+    skin: "Signs of the Allfather",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Nature's Prophet - Signs of the Allfather.png"
+  },
+  {
+    hero: "Night Stalker",
+    skin: "Origin of the Dark Oath",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Night Stalker - Origin of the Dark Oath.png"
+  },
+  {
+    hero: "Pudge",
+    skin: "Mindless Slaughter",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Pudge - Mindless Slaughter.png"
+  },
+  {
+    hero: "Silencer",
+    skin: "Silent Slayer",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Silencer - Silent Slayer.png"
+  },
+  {
+    hero: "Tiny",
+    skin: "Ancient Inheritance",
+    rarity: "Rare",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Tiny - Ancient Inheritance (Rare).png"
+  },
+  {
+    hero: "Underlord",
+    skin: "Ravenous Abyss",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Underlord - Ravenous Abyss.png"
+  },
+  {
+    hero: "Warlock",
+    skin: "Banished of the Beholden Ones",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache/Warlock - Banished of the Beholden Ones.png"
+  }
+],
+
+"The International 10 Collector's Cache II": [
+  {
+    hero: "Arc Warden",
+    skin: "Ire of the Ancient Gaoler",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Arc Warden - Ire of the Ancient Gaoler.png"
+  },
+  {
+    hero: "Bristleback",
+    skin: "Beast of the Crimson Ring",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Bristleback - Beast of the Crimson Ring.png"
+  },
+  {
+    hero: "Chaos Knight",
+    skin: "Talons of the Endless Storm",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Chaos Knight - Talons of the Endless Storm.png"
+  },
+  {
+    hero: "Doom",
+    skin: "Wrath of the Fallen",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Doom - Wrath of the Fallen.png"
+  },
+  {
+    hero: "Ember Spirit",
+    skin: "Master of the Searing Path",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Ember Spirit - Master of the Searing Path.png"
+  },
+  {
+    hero: "Enigma",
+    skin: "Evolution of the Infinite",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Enigma - Evolution of the Infinite.png"
+  },
+  {
+    hero: "Faceless Void",
+    skin: "Claszureme Incursion",
+    rarity: "Very Rare",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Faceless Void - Claszureme Incursion (Very Rare).png"
+  },
+  {
+    hero: "Keeper of the Light",
+    skin: "The King of Thieves",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Keeper of the Light - The King of Thieves.png"
+  },
+  {
+    hero: "Phoenix",
+    skin: "Blaze of Oblivion",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Phoenix - Blaze of Oblivion.png"
+  },
+  {
+    hero: "Rubick",
+    skin: "Carousal of the Mystic Masquerade",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Rubick - Carousal of the Mystic Masquerade.png"
+  },
+  {
+    hero: "Shadow Demon",
+    skin: "Crown of Calaphas",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Shadow Demon - Crown of Calaphas.png"
+  },
+  {
+    hero: "Skywrath Mage",
+    skin: "Secrets of the Celestial",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Skywrath Mage - Secrets of the Celestial.png"
+  },
+  {
+    hero: "Sniper",
+    skin: "Blacksail Cannoneer",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Sniper - Blacksail Cannoneer.png"
+  },
+  {
+    hero: "Templar Assassin",
+    skin: "Steward of the Forbidden Chamber",
+    rarity: "Rare",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Templar Assassin - Steward of the Forbidden Chamber (Rare).png"
+  },
+  {
+    hero: "Tidehunter",
+    skin: "Horror from the Deep",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Tidehunter - Horror from the Deep.png"
+  },
+  {
+    hero: "Timbersaw",
+    skin: "Clearcut Cavalier",
+    rarity: "Mythical",
+    price: "N/A",
+    image: "images/skins/The International 10 Collector's Cache II/Timbersaw - Clearcut Cavalier.png"
+  }
 ]
-
-
-  };
+};
   
   const params = new URLSearchParams(window.location.search);
   const treasureName = params.get("id");
@@ -922,15 +1389,64 @@ const skins = {
       card.innerHTML = `
         <img src="${skin.image}" alt="${skin.hero}">
         <div class="skin-info">
-          <h3>${skin.hero}</h3>
-          <div class="rarity">${skin.skin} — ${skin.rarity}</div>
+          <div class="hero-name">${skin.hero}</div>
+<div class="skin-name">
+  ${skin.skin} — 
+  <span class="rarity ${skin.rarity.toLowerCase().replace(/\s/g, '-')}">
+    ${skin.rarity}
+  </span>
+</div>
+
+</div>
+
           <div class="price">${skin.price}</div>
         </div>
       `;
       container.appendChild(card);
     });
   } else {
-    container.innerHTML = `<p style="text-align:center; color: #aaa;">No skins found for this collection.</p>`;
+    card.innerHTML = `
+    <img src="${skin.image}" alt="${skin.hero}">
+    <div class="skin-info">
+      <div class="hero-name">${skin.hero}</div>
+      <div class="skin-name">${skin.skin} — <span class="rarity ${skin.rarity.toLowerCase().replace(/\s/g, '-')}">${skin.rarity}</span></div>
+      <div class="price">${skin.price}</div>
+    </div>
+  `;
+  
   }  
+  const modal = document.getElementById("skin-modal");
+const modalDetails = document.getElementById("modal-details");
+const closeModal = document.getElementById("close-modal");
+
+document.querySelectorAll(".skin-card").forEach(card => {
+  card.addEventListener("click", () => {
+    const hero = card.querySelector(".hero-name").textContent;
+    const skinName = card.querySelector(".skin-name").textContent;
+    const rarity = card.querySelector(".rarity").textContent;
+    const price = card.querySelector(".price").textContent;
+    const imgSrc = card.querySelector("img").src;
+
+    document.getElementById("modal-skin-name").textContent = skinName;
+    document.getElementById("modal-price").textContent = price;
+    document.getElementById("modal-hero").textContent = hero;
+    document.getElementById("modal-rarity").textContent = rarity;
+    document.getElementById("modal-image").src = imgSrc;
+
+    document.getElementById("skin-modal").style.display = "flex";
+  });
+});
+
+document.getElementById("close-modal").addEventListener("click", () => {
+  document.getElementById("skin-modal").style.display = "none";
+});
+
+window.addEventListener("click", e => {
+  if (e.target.id === "skin-modal") {
+    document.getElementById("skin-modal").style.display = "none";
+  }
+});
+
+
 
   

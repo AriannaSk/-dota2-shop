@@ -14,7 +14,23 @@
   <main class="skins-grid" id="skins-grid">
     <!-- Скины будут подгружены сюда -->
   </main>
+  <!-- Добавь перед закрывающимся тегом </body> -->
+<div class="modal" id="skin-modal">
+  <div class="modal-content">
+    <span id="close-modal" class="close-button">&times;</span>
+    <div class="modal-body">
+      <img id="modal-image" src="" alt="">
+      <div class="modal-info">
+        <h2 id="modal-skin-name"></h2>
+        <p id="modal-hero"></p>
+        <p><span id="modal-rarity" class="rarity"></span></p>
+        <p class="modal-price" id="modal-price"></p>
+      </div>
+    </div>
+  </div>
+</div>
 
+  
   <script src="treasure.js"></script>
 </body>
 </html>
